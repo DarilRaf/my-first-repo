@@ -5,3 +5,5 @@ StudentID  : 2206083640
 Class      : PBP B
 
 Hobby      : Sleeping
+
+Major      : Computer Science
